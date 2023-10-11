@@ -1,9 +1,28 @@
 .heading{
     color:blue;
-    font-size: 24px;
+    font-size: 28px;
     font-weight:bold;
+    font-family:Italic ;
+    text-align: center;
     
 }
 .bg{
     background-color:rgb(191, 213, 225);
+    
+    padding:5px;
+    margin:10px;
+    
+} 
+
+
+li{
+    font-size: 18px;
+    font-family:sans-serif;
+    color:crimson;
+    margin:20px;
+    
+}
+.image{
+    height:30vh;
+    width:400px;
 }
